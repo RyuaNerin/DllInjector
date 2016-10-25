@@ -8,4 +8,4 @@ Support x86, x64
 
 LICENSE
 ----------
-`GNU General Public License v3 <LICNESE>`_
+`GNU General Public License v3 <LICENSE>`_
